@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blook&#39;s bog</title>
-    <link>/</link>
+    <link>/posts/</link>
     <description>Recent content on blook&#39;s bog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Dec 2021 18:24:29 -0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Year in Books 2021</title>
       <link>/posts/2021-year-in-books/</link>
@@ -42,15 +42,6 @@ In this article, I’ll be covering my top 19 of the year.</description>
       
       <guid>/posts/2018-year-in-books/</guid>
       <description>Why So Many Books? Some of you might wonder why I chose to spend a lot of my free time in 2018 doing this instead of any of the other things with which I occupy my free time. The answer is simple: I love reading. It allows me to lose myself in another person’s world, learn from others’ experiences, and reflect constantly. It gives my mind a new dimension to explore.</description>
-    </item>
-    
-    <item>
-      <title>welcome to blook&#39;s bog</title>
-      <link>/about/</link>
-      <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Whether you reached here via a typo in your browser, a staged phishing email at work, or are here intentionally - welcome! I&amp;rsquo;m Gauri and I created blook&amp;rsquo;s bog as a way to approach blogging differently than I have in the past. I&amp;rsquo;ve contributed to, built, and torn down many blogs over the years - book blogs, tech blogs, writing for others&amp;rsquo; book or tech blogs, you name it - and often abandon these projects once it starts to feel forced and cookie-cutter.</description>
     </item>
     
   </channel>
